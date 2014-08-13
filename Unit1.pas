@@ -31,6 +31,7 @@ begin
   ComboBox1.Items.Add('');
   ComboBox1.Items.Add('1');
   ComboBox1.Items.Add('2');
+  ComboBox1.Items.Add('3');
 end;
 
 procedure TForm1.Button1Click(Sender: TObject);
